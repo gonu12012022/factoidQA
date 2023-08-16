@@ -1,0 +1,1598 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Science?",
+              "id": 1066312,
+              "answers": [
+                {
+                  "answer_id": 954707,
+                  "document_id": 1586811,
+                  "question_id": 1066312,
+                  "text": "60% marks",
+                  "answer_start": 82,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Science?",
+              "id": 1066313,
+              "answers": [
+                {
+                  "answer_id": 954708,
+                  "document_id": 1586811,
+                  "question_id": 1066313,
+                  "text": "6.5 on a 10-point scale",
+                  "answer_start": 104,
+                  "answer_end": 127,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What class is required to take admission to Ph.D. Science?",
+              "id": 1066310,
+              "answers": [
+                {
+                  "answer_id": 954704,
+                  "document_id": 1586811,
+                  "question_id": 1066310,
+                  "text": "first-class",
+                  "answer_start": 59,
+                  "answer_end": 70,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Master�s Degree in an appropriate branch of Science with a first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) or equivalent at Master�s level. Relaxation in minimum Percentage/Equivalent grade Point requirements will be given as per the National Reservation Policy of Govt. of India.",
+          "document_id": 1586811
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Humanities?",
+              "id": 1066318,
+              "answers": [
+                {
+                  "answer_id": 954712,
+                  "document_id": 1586812,
+                  "question_id": 1066318,
+                  "text": "60% marks",
+                  "answer_start": 85,
+                  "answer_end": 94,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Humanities?",
+              "id": 1066319,
+              "answers": [
+                {
+                  "answer_id": 954713,
+                  "document_id": 1586812,
+                  "question_id": 1066319,
+                  "text": "6.5 on a 10-point scale",
+                  "answer_start": 107,
+                  "answer_end": 130,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What class is required to take admission to Ph.D. Humanities?",
+              "id": 1066317,
+              "answers": [
+                {
+                  "answer_id": 954711,
+                  "document_id": 1586812,
+                  "question_id": 1066317,
+                  "text": " first-class",
+                  "answer_start": 61,
+                  "answer_end": 73,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Master�s Degree in an appropriate branch of Humanities with a first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) or equivalent at Master�s level. Relaxation in minimum Percentage/Equivalent grade Point requirements will be given as per the National Reservation Policy of Govt. of India.",
+          "document_id": 1586812
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is NOC?",
+              "id": 1066346,
+              "answers": [
+                {
+                  "answer_id": 954893,
+                  "document_id": 1586817,
+                  "question_id": 1066346,
+                  "text": "No Objection Certificate",
+                  "answer_start": 172,
+                  "answer_end": 196,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Is NOC required for Part-Time Candidates?",
+              "id": 1066347,
+              "answers": [
+                {
+                  "answer_id": 954894,
+                  "document_id": 1586817,
+                  "question_id": 1066347,
+                  "text": "will be required from the present employer",
+                  "answer_start": 203,
+                  "answer_end": 245,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Is Part-Time Candidates are receiving any scholarships? ",
+              "id": 1066349,
+              "answers": [
+                {
+                  "answer_id": 955488,
+                  "document_id": 1586817,
+                  "question_id": 1066349,
+                  "text": "not entitled to receive any fellowship from the Institute",
+                  "answer_start": 267,
+                  "answer_end": 324,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Part-Time candidates from industry, corporate, any Govt. organization, and faculty of recognized institutes should have at least two years of experience. In this regard, a No Objection Certificate (NOC) will be required from the present employer. Such candidates are not entitled to receive any fellowship from the Institute.",
+          "document_id": 1586817
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Management?",
+              "id": 1066322,
+              "answers": [
+                {
+                  "answer_id": 954717,
+                  "document_id": 1586813,
+                  "question_id": 1066322,
+                  "text": "60% marks",
+                  "answer_start": 85,
+                  "answer_end": 94,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Management?",
+              "id": 1066323,
+              "answers": [
+                {
+                  "answer_id": 954718,
+                  "document_id": 1586813,
+                  "question_id": 1066323,
+                  "text": "6.5 on a 10-point scale",
+                  "answer_start": 107,
+                  "answer_end": 130,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What classis required to take admission to Ph.D. Management?",
+              "id": 1066321,
+              "answers": [
+                {
+                  "answer_id": 954715,
+                  "document_id": 1586813,
+                  "question_id": 1066321,
+                  "text": "first-class",
+                  "answer_start": 62,
+                  "answer_end": 73,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Master�s Degree in an appropriate branch of Management with a first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) or equivalent at Master�s level. Relaxation in minimum Percentage/Equivalent grade Point requirements will be given as per the National Reservation Policy of Govt. of India.",
+          "document_id": 1586813
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who are Full-Time Candidates?",
+              "id": 1066352,
+              "answers": [
+                {
+                  "answer_id": 954923,
+                  "document_id": 1586818,
+                  "question_id": 1066352,
+                  "text": "joined under an Institute fellowship/fellowship received from agencies like CSIR, UGC, etc.",
+                  "answer_start": 30,
+                  "answer_end": 121,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Full-Time candidates who have joined under an Institute fellowship/fellowship received from agencies like CSIR, UGC, etc.",
+          "document_id": 1586818
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Technology after B.Tech?",
+              "id": 1066325,
+              "answers": [
+                {
+                  "answer_id": 954723,
+                  "document_id": 1586814,
+                  "question_id": 1066325,
+                  "text": "70 % of marks",
+                  "answer_start": 117,
+                  "answer_end": 130,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Technology after B.Tech?",
+              "id": 1066326,
+              "answers": [
+                {
+                  "answer_id": 954724,
+                  "document_id": 1586814,
+                  "question_id": 1066326,
+                  "text": "7.5 out of 10",
+                  "answer_start": 87,
+                  "answer_end": 100,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who is exempted from the GATE score to take admission to Ph.D. Technology after B.Tech?",
+              "id": 1066330,
+              "answers": [
+                {
+                  "answer_id": 954757,
+                  "document_id": 1586814,
+                  "question_id": 1066330,
+                  "text": " industrial experience (PSU/MNC, Govt. undertaking)",
+                  "answer_start": 235,
+                  "answer_end": 286,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many years of industrial experience?",
+              "id": 1066331,
+              "answers": [
+                {
+                  "answer_id": 955483,
+                  "document_id": 1586814,
+                  "question_id": 1066331,
+                  "text": "at least five years",
+                  "answer_start": 290,
+                  "answer_end": 309,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who will get institute fellowship in Ph.D. Technology after B.Tech.?",
+              "id": 1066329,
+              "answers": [
+                {
+                  "answer_id": 955564,
+                  "document_id": 1586814,
+                  "question_id": 1066329,
+                  "text": "must have a valid GATE score to avail of an institute fellowship",
+                  "answer_start": 143,
+                  "answer_end": 207,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bachelor�s degree in Technology or equivalent in any discipline with a minimum CGPA of 7.5 out of 10 or a minimum of 70 % of marks. Candidates must have a valid GATE score to avail of an institute fellowship. However, candidates having industrial experience (PSU/MNC, Govt. undertaking) of at least five years may be exempted from mandatory valid GATE scores. Final year students are also eligible to apply, provided at the time of admission he/she should produce a final grade card failing which his/her admission will stand canceled.",
+          "document_id": 1586814
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Social Sciences?",
+              "id": 1066336,
+              "answers": [
+                {
+                  "answer_id": 954776,
+                  "document_id": 1586815,
+                  "question_id": 1066336,
+                  "text": "60% marks",
+                  "answer_start": 90,
+                  "answer_end": 99,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Social Sciences?",
+              "id": 1066337,
+              "answers": [
+                {
+                  "answer_id": 954780,
+                  "document_id": 1586815,
+                  "question_id": 1066337,
+                  "text": "6.5 on a 10-point scale",
+                  "answer_start": 112,
+                  "answer_end": 135,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What class is required to take admission to Ph.D. Social Sciences?",
+              "id": 1066335,
+              "answers": [
+                {
+                  "answer_id": 954774,
+                  "document_id": 1586815,
+                  "question_id": 1066335,
+                  "text": "first-class",
+                  "answer_start": 67,
+                  "answer_end": 78,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Master�s Degree in an appropriate branch of Social Sciences with a first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) or equivalent at Master�s level. Relaxation in minimum Percentage/Equivalent grade Point requirements will be given as per the National Reservation Policy of Govt. of India.",
+          "document_id": 1586815
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many pages will be the write-up of?",
+              "id": 1066362,
+              "answers": [
+                {
+                  "answer_id": 954958,
+                  "document_id": 1586819,
+                  "question_id": 1066362,
+                  "text": "1-2 pages",
+                  "answer_start": 531,
+                  "answer_end": 540,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many times Ph.D. advertisement is invited?",
+              "id": 1066353,
+              "answers": [
+                {
+                  "answer_id": 954925,
+                  "document_id": 1586819,
+                  "question_id": 1066353,
+                  "text": "twice a year",
+                  "answer_start": 85,
+                  "answer_end": 97,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Applications in the prescribed format for admission to Ph. D program will be invited twice a year through advertisement in the national dailies/media and on Institute�s website. The advertisement shall include the predetermined seats/research area and as per the guidelines of reservation policy of Govt. of India. The candidates who desire to apply in more than one department/ category shall be required to apply on separate application forms along with the appropriate fee. The candidate shall be required to submit a write-up (1-2 pages) of his/her proposed area of research along with the application.",
+          "document_id": 1586819
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many days Sponsored candidates have to stay?",
+              "id": 1066367,
+              "answers": [
+                {
+                  "answer_id": 954973,
+                  "document_id": 1586820,
+                  "question_id": 1066367,
+                  "text": "at least 36 months from the date of first registration",
+                  "answer_start": 218,
+                  "answer_end": 272,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Sponsored candidates from industry, corporate, any Govt. organization, and faculty of recognized Institutes sponsored by the respective employer of the candidate. The candidate must have to reside in the Institute for at least 36 months from the date of first registration.",
+          "document_id": 1586820
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When fellowship will be received?",
+              "id": 1066390,
+              "answers": [
+                {
+                  "answer_id": 955011,
+                  "document_id": 1586824,
+                  "question_id": 1066390,
+                  "text": "monthly ",
+                  "answer_start": 42,
+                  "answer_end": 50,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Candidates are allowed to receive revised monthly fellowship as per Government and Institute norms subjected to availability of funds, a maximum of upto five years.",
+          "document_id": 1586824
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What percentage of attendance is mandatory?",
+              "id": 1066417,
+              "answers": [
+                {
+                  "answer_id": 955064,
+                  "document_id": 1586830,
+                  "question_id": 1066417,
+                  "text": "75% attendance",
+                  "answer_start": 24,
+                  "answer_end": 38,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The PS having less than 75% attendance will not be allowed to sit for the end-semester examination.",
+          "document_id": 1586830
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is DRC?",
+              "id": 1066382,
+              "answers": [
+                {
+                  "answer_id": 954996,
+                  "document_id": 1586822,
+                  "question_id": 1066382,
+                  "text": "Departmental Research Committee",
+                  "answer_start": 143,
+                  "answer_end": 174,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who will notify the list of selected candidates? ",
+              "id": 1066383,
+              "answers": [
+                {
+                  "answer_id": 955507,
+                  "document_id": 1586822,
+                  "question_id": 1066383,
+                  "text": " The Dean (Academic) shall notify",
+                  "answer_start": 720,
+                  "answer_end": 753,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who is eligible for an interview before DRC?",
+              "id": 1066380,
+              "answers": [
+                {
+                  "answer_id": 954993,
+                  "document_id": 1586822,
+                  "question_id": 1066380,
+                  "text": "who will qualify Entrance Test",
+                  "answer_start": 24,
+                  "answer_end": 54,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The eligible candidates who will qualify Entrance Test shall have to appear before Departmental Research Committee (DRC) for an interview. The Departmental Research Committee (DRC) shall comprise of: I Dean (Academic) / Nominee � Chairman. II DIC (R&D) � Member. III HoD � Member cum Convenor. IV All faculty members of the concerned department. Keeping in view the available seats, the Interview Committee shall recommend the names of candidates found suitable for admission to Ph.D. Program for the approval of the Chairman, Senate. At the same time, the committee will recommend the supervisor's name. Chairman Senate may select a few/ all candidates out of the recommended candidates by the interview Committee /DRC. The Dean (Academic) shall notify the list of selected candidates through appropriate means.",
+          "document_id": 1586822
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How is a candidate selected for Ph.D. Programme? ",
+              "id": 1066388,
+              "answers": [
+                {
+                  "answer_id": 955006,
+                  "document_id": 1586823,
+                  "question_id": 1066388,
+                  "text": "through an Entrance Test followed by an interview ",
+                  "answer_start": 78,
+                  "answer_end": 128,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "All the candidates to Ph.D. Programme (Full Time/Part Time) shall be admitted through an Entrance Test followed by an interview to be organized by the respective department as the case may be. The syllabus for the same will be notified on the Institute website. At the time of the interview, candidates are expected to discuss their research interest/area of interest.",
+          "document_id": 1586823
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who will get preference in the interview?",
+              "id": 1066392,
+              "answers": [
+                {
+                  "answer_id": 955013,
+                  "document_id": 1586825,
+                  "question_id": 1066392,
+                  "text": "UGC/CSIR/NET/GATE qualified candidates",
+                  "answer_start": 147,
+                  "answer_end": 185,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Candidates, who fulfill the minimum eligibility criteria of the Entrance Test, shall be called for interview. The preference shall be given to the UGC/CSIR/NET/GATE qualified candidates. The final selection will be preferably based on the performance of the written test, interview, and UGC/CSIR/NET/GATE score.",
+          "document_id": 1586825
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When JRF is converted to SRF?",
+              "id": 1066395,
+              "answers": [
+                {
+                  "answer_id": 955016,
+                  "document_id": 1586826,
+                  "question_id": 1066395,
+                  "text": " completion two years from the date of registration",
+                  "answer_start": 5,
+                  "answer_end": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Which type of journal publication is required for converting JRF to SRF?",
+              "id": 1066401,
+              "answers": [
+                {
+                  "answer_id": 955036,
+                  "document_id": 1586826,
+                  "question_id": 1066401,
+                  "text": "SSCI/SCOPUS/SCI/SCIE indexed ",
+                  "answer_start": 270,
+                  "answer_end": 299,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many journals is required for converting JRF to SRF?",
+              "id": 1066404,
+              "answers": [
+                {
+                  "answer_id": 955039,
+                  "document_id": 1586826,
+                  "question_id": 1066404,
+                  "text": "Minimum of one",
+                  "answer_start": 255,
+                  "answer_end": 269,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "After completion two years from the date of registration, the candidate may be converted from JRF to SRF subject to the fulfillment of the following criteria. 1. The candidate has to apply in the Academic section for SRF through Supervisor(s) and HoD. 2. Minimum of one SSCI/SCOPUS/SCI/SCIE indexed Journal publication/accepted or one granted Patent is required. 3. The candidate has to appear for a progress seminar. For that, a committee has to be formed with an external member by the Supervisor(s) through the respective HoD for evaluation of the progress of the Junior Research Fellow (JRF) for the last two years.",
+          "document_id": 1586826
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the pass marks of coursework?",
+              "id": 1066407,
+              "answers": [
+                {
+                  "answer_id": 955046,
+                  "document_id": 1586828,
+                  "question_id": 1066407,
+                  "text": "CGPA = 6.5 (minimum).",
+                  "answer_start": 227,
+                  "answer_end": 248,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the minimum credit points of coursework for P.G.?",
+              "id": 1066409,
+              "answers": [
+                {
+                  "answer_id": 955054,
+                  "document_id": 1586828,
+                  "question_id": 1066409,
+                  "text": "12 credits",
+                  "answer_start": 170,
+                  "answer_end": 180,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the minimum credit points of coursework for B.E./B.Tech.?",
+              "id": 1066410,
+              "answers": [
+                {
+                  "answer_id": 955056,
+                  "document_id": 1586828,
+                  "question_id": 1066410,
+                  "text": "18 credits",
+                  "answer_start": 192,
+                  "answer_end": 202,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Every Internal/External Ph.D. Scholar (Full Time/Part Time) admitted under Ph.D. Program is required to pass the theory courses approved by the RAC/DRC (for a minimum of 12 credits (P.G.) and 18 credits (B.E./B.Tech)) securing CGPA = 6.5 (minimum).",
+          "document_id": 1586828
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which subject must include in coursework? ",
+              "id": 1066412,
+              "answers": [
+                {
+                  "answer_id": 955057,
+                  "document_id": 1586829,
+                  "question_id": 1066412,
+                  "text": "Research Methodology",
+                  "answer_start": 42,
+                  "answer_end": 62,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the time for completion of coursework?",
+              "id": 1066413,
+              "answers": [
+                {
+                  "answer_id": 955059,
+                  "document_id": 1586829,
+                  "question_id": 1066413,
+                  "text": "within one year",
+                  "answer_start": 174,
+                  "answer_end": 189,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the time for completion of coursework for B.E./B.Tech. students?",
+              "id": 1066416,
+              "answers": [
+                {
+                  "answer_id": 955647,
+                  "document_id": 1586829,
+                  "question_id": 1066416,
+                  "text": ". Ph.D. Scholars with B.E./B. Tech degree has to complete the coursework within the first three semesters",
+                  "answer_start": 382,
+                  "answer_end": 487,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The coursework must include one course of Research Methodology and the rest of the courses may be taken as per the recommendations of RAC. Total courses have to be completed within one year (first two consecutive semesters). If a candidate fails to complete the coursework in the first two semesters, the RAC may recommend an extension of one more semester with proper justification. Ph.D. Scholars with B.E./B. Tech degree has to complete the coursework within the first three semesters. If a candidate fails to complete the coursework in the first three semesters, the RAC may recommend an extension of one more semester with proper justification.",
+          "document_id": 1586829
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum period for submission of a thesis for Ph.D. students (enrolled with a P.G. degree)?",
+              "id": 1066437,
+              "answers": [
+                {
+                  "answer_id": 955626,
+                  "document_id": 1586833,
+                  "question_id": 1066437,
+                  "text": "36 months for all categories of Ph.D. students (enrolled with a P.G. degree)",
+                  "answer_start": 183,
+                  "answer_end": 259,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum period for submission of a thesis for Ph.D. students (enrolled with a B.E/B. Tech degree)?",
+              "id": 1066440,
+              "answers": [
+                {
+                  "answer_id": 955628,
+                  "document_id": 1586833,
+                  "question_id": 1066440,
+                  "text": "48 months (enrolled with a B.E/B. Tech degree)",
+                  "answer_start": 264,
+                  "answer_end": 310,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the extended period for submission of a thesis for Ph.D. students (enrolled with a P.G. degree)?",
+              "id": 1066445,
+              "answers": [
+                {
+                  "answer_id": 955632,
+                  "document_id": 1586833,
+                  "question_id": 1066445,
+                  "text": "2 years (enrolled with a P.G. degree)",
+                  "answer_start": 662,
+                  "answer_end": 699,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the extended period for submission of a thesis for Ph.D. students (enrolled with a B.E/B. Tech degree)?",
+              "id": 1066448,
+              "answers": [
+                {
+                  "answer_id": 955634,
+                  "document_id": 1586833,
+                  "question_id": 1066448,
+                  "text": "3 years (enrolled with B.E/B. Tech degree)",
+                  "answer_start": 704,
+                  "answer_end": 746,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the maximum period of submission of thesis enrolled with a P.G. degree? ",
+              "id": 1066542,
+              "answers": [
+                {
+                  "answer_id": 955639,
+                  "document_id": 1586833,
+                  "question_id": 1066542,
+                  "text": "should not exceed five years (enrolled with a P.G. degree)",
+                  "answer_start": 384,
+                  "answer_end": 442,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the maximum period of submission of thesis enrolled with a B.E/B. Tech degree? ",
+              "id": 1066546,
+              "answers": [
+                {
+                  "answer_id": 955640,
+                  "document_id": 1586833,
+                  "question_id": 1066546,
+                  "text": "seven years (enrolled with a B.E/B. Tech degree) from the date of registration",
+                  "answer_start": 447,
+                  "answer_end": 525,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The minimum period of completion of coursework is 1(one) semester from the date of registration for all categories of Ph.D. students. The minimum period of thesis submission shall be 36 months for all categories of Ph.D. students (enrolled with a P.G. degree) and 48 months (enrolled with a B.E/B. Tech degree) from the date of registration. However, the maximum period of submission should not exceed five years (enrolled with a P.G. degree) and seven years (enrolled with a B.E/B. Tech degree) from the date of registration. Delay beyond the stipulated period of submission may be extended by the Senate as a special case @ 06 months at a time to a maximum of 2 years (enrolled with a P.G. degree) and 3 years (enrolled with B.E/B. Tech degree) after which the registration shall stand canceled.",
+          "document_id": 1586833
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which places allow to visit for PS?",
+              "id": 1066455,
+              "answers": [
+                {
+                  "answer_id": 955156,
+                  "document_id": 1586834,
+                  "question_id": 1066455,
+                  "text": "other libraries/ laboratories/industries etc",
+                  "answer_start": 433,
+                  "answer_end": 477,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum period of the residential requirement for study and research for B.E./ B. Tech students?",
+              "id": 1066452,
+              "answers": [
+                {
+                  "answer_id": 955154,
+                  "document_id": 1586834,
+                  "question_id": 1066452,
+                  "text": "48 months",
+                  "answer_start": 219,
+                  "answer_end": 228,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "For a regular PS under scholarship, the minimum period of the residential requirement for study and research at the institute from the date of registration to the date of submission of the thesis shall be 36 months and 48 months (for B.E./ B. Tech). During this residential requirement, the PS (s) shall report to his/her supervisor (s) from the department where he/she is registered. The PS is allowed to leave the station to visit other libraries/ laboratories/industries etc. For consultation/experimentation/ data collection/ attend a conference/ present a paper in a conference/symposium after due permission from his/her supervisor (s) and approval of the concerned Head of Department.",
+          "document_id": 1586834
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the syllabus of the comprehensive examination?",
+              "id": 1066459,
+              "answers": [
+                {
+                  "answer_id": 955166,
+                  "document_id": 1586835,
+                  "question_id": 1066459,
+                  "text": "any three courses recommended by the RAC/DRC",
+                  "answer_start": 322,
+                  "answer_end": 366,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When shall a comprehensive examination of the PS be held?",
+              "id": 1066456,
+              "answers": [
+                {
+                  "answer_id": 955159,
+                  "document_id": 1586835,
+                  "question_id": 1066456,
+                  "text": "after the completion of coursework",
+                  "answer_start": 54,
+                  "answer_end": 88,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The comprehensive examination of the PS shall be held after the completion of coursework prescribed by the RAC/DRC. The chairperson, RAC should conduct the examination (written and or oral) within the first 15 (fifteen) months from the date of registration of PS. The syllabus of the comprehensive examination is based on any three courses recommended by the RAC/DRC. If PS fails the exam on the first try, he or she may be allowed another chance within two months. PS's registration with the Institute will be terminated if he/she fails the exam on his/her second attempt as well.",
+          "document_id": 1586835
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What are the outlines of Ph.D. synopsis?",
+              "id": 1066475,
+              "answers": [
+                {
+                  "answer_id": 955206,
+                  "document_id": 1586838,
+                  "question_id": 1066475,
+                  "text": " i. Abstract ii. Introduction and objectives iii. Methodology iv. Results and discussions v. Conclusions and Future scope vi. References.",
+                  "answer_start": 68,
+                  "answer_end": 205,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Ph.D. synopsis should be submitted preferably in the given outlines: i. Abstract ii. Introduction and objectives iii. Methodology iv. Results and discussions v. Conclusions and Future scope vi. References.",
+          "document_id": 1586838
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where the progress seminar needs to give?",
+              "id": 1066486,
+              "answers": [
+                {
+                  "answer_id": 955233,
+                  "document_id": 1586839,
+                  "question_id": 1066486,
+                  "text": "in front of DRC",
+                  "answer_start": 114,
+                  "answer_end": 129,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "After successful completion of a state-of-the-art seminar, a PS is required to give at least one progress seminar in front of DRC in every academic year till his/her Pre-submission Seminar/submission of synopsis. A consolidated report needs to be submitted to the academic office when the progress seminar is finished.",
+          "document_id": 1586839
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many research publications required for submitting a thesis?",
+              "id": 1066490,
+              "answers": [
+                {
+                  "answer_id": 955247,
+                  "document_id": 1586840,
+                  "question_id": 1066490,
+                  "text": "two research publications",
+                  "answer_start": 62,
+                  "answer_end": 87,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "For submitting a thesis or presenting a synopsis PS must have two research publications linked to his or her thesis published or accepted in a SSCI/SCI/SCIE/SCOPUS/SSCI journal, one of which must be in an SSCI/SCI/SCIE journal or one granted patent. In all publications relating to his or her research, PS must be the first author.",
+          "document_id": 1586840
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the minimum mark required to take admission to Ph.D. Technology?",
+              "id": 1066303,
+              "answers": [
+                {
+                  "answer_id": 954696,
+                  "document_id": 1586810,
+                  "question_id": 1066303,
+                  "text": "60% marks",
+                  "answer_start": 161,
+                  "answer_end": 170,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What CGPA is required to take admission to Ph.D. Technology?",
+              "id": 1066305,
+              "answers": [
+                {
+                  "answer_id": 954698,
+                  "document_id": 1586810,
+                  "question_id": 1066305,
+                  "text": "6.5 on a 10-point scale",
+                  "answer_start": 183,
+                  "answer_end": 206,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What class is required to take admission to Ph.D. Technology?",
+              "id": 1066302,
+              "answers": [
+                {
+                  "answer_id": 954694,
+                  "document_id": 1586810,
+                  "question_id": 1066302,
+                  "text": "first-class",
+                  "answer_start": 138,
+                  "answer_end": 149,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Master�s Degree in Technology in the relevant area of research along with a Bachelor�s Degree in an appropriate branch of Technology with first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) at Master�s and Bachelor�s level. Relaxation in minimum Percentage/Equivalent grade Point requirements will be given as per the National Reservation Policy of Govt. of India.",
+          "document_id": 1586810
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Which Foreign National candidates are eligible for Ph.D.?",
+              "id": 1066340,
+              "answers": [
+                {
+                  "answer_id": 954802,
+                  "document_id": 1586816,
+                  "question_id": 1066340,
+                  "text": "apply through the Ministry of Human Resource Development, Govt. of India, or Indian Council of Cultural Relations, Govt. of India",
+                  "answer_start": 33,
+                  "answer_end": 162,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum mark required for Foreign National candidates in Ph.D.?",
+              "id": 1066342,
+              "answers": [
+                {
+                  "answer_id": 954819,
+                  "document_id": 1586816,
+                  "question_id": 1066342,
+                  "text": " 60% marks",
+                  "answer_start": 432,
+                  "answer_end": 442,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum CGPA required for Foreign National candidates in Ph.D.?",
+              "id": 1066343,
+              "answers": [
+                {
+                  "answer_id": 954840,
+                  "document_id": 1586816,
+                  "question_id": 1066343,
+                  "text": " 6.5 on a 10-point scale",
+                  "answer_start": 454,
+                  "answer_end": 478,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum CGPA required for Foreign National candidates in Ph.D. after B.Tech.?",
+              "id": 1066344,
+              "answers": [
+                {
+                  "answer_id": 954855,
+                  "document_id": 1586816,
+                  "question_id": 1066344,
+                  "text": "7.5 out of 10",
+                  "answer_start": 844,
+                  "answer_end": 857,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What class is required for Foreign National candidates in Ph.D.?",
+              "id": 1066345,
+              "answers": [
+                {
+                  "answer_id": 955615,
+                  "document_id": 1586816,
+                  "question_id": 1066345,
+                  "text": " first-class",
+                  "answer_start": 409,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Foreign National candidates, who apply through the Ministry of Human Resource Development, Govt. of India, or Indian Council of Cultural Relations, Govt. of India, are eligible to apply provided that they possess the same minimum qualifications as Master�s Degree in Engineering/Technology in the relevant area of research along with a Bachelor�s Degree in an appropriate branch of Engineering/Technology with first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) at Master�s and Bachelor�s level. Master�s Degree in an appropriate branch of Science/Humanities/Social Sciences/Management with a first-class or minimum 60% marks (or CGPA of 6.5 on a 10-point scale or equivalent) or equivalent at Master�s level. Bachelor�s degree in Engineering or Technology or equivalent in any discipline with a minimum CGPA of 7.5 out of 10 or a minimum of 70 % of marks. Candidates must have a valid GATE score to avail of an institute fellowship. However, candidates having industrial experience (PSU/MNC, Govt. undertaking) of at least five years may be exempted from mandatory valid GATE scores. Final year students are also eligible to apply, provided at the time of admission he/she should produce a final grade card failing which his/her admission will stand canceled.",
+          "document_id": 1586816
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How to verify the eligibility of applicant?",
+              "id": 1066374,
+              "answers": [
+                {
+                  "answer_id": 954986,
+                  "document_id": 1586821,
+                  "question_id": 1066374,
+                  "text": "details mentioned in the application (s) and the documents enclosed",
+                  "answer_start": 250,
+                  "answer_end": 317,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who are the members of Screening Committee?",
+              "id": 1066371,
+              "answers": [
+                {
+                  "answer_id": 954982,
+                  "document_id": 1586821,
+                  "question_id": 1066371,
+                  "text": "Head of the Department and three faculty members",
+                  "answer_start": 40,
+                  "answer_end": 88,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "A Screening Committee will comprise the Head of the Department and three faculty members (co-opted by HoD from the department). The committee is expected to verify the eligibility of the applicant (s) for the Entrance Test/Interview based on his/her details mentioned in the application (s) and the documents enclosed. After the screening of all applications, the Head of the Department shall publish the list of eligible/shortlisted candidates for written and/or Interviews through appropriate means.",
+          "document_id": 1586821
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who is PS?",
+              "id": 1066405,
+              "answers": [
+                {
+                  "answer_id": 955042,
+                  "document_id": 1586827,
+                  "question_id": 1066405,
+                  "text": "PhD Scholar",
+                  "answer_start": 214,
+                  "answer_end": 225,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Candidates, whose selection is recommended by the DRC and approved by Chairman Senate, shall be offered admission and advised to deposit the prescribed fee. After depositing the fee, he/she shall be designated as �PhD Scholar (PS)�. For all purposes, the date of registration of a PS shall be the date on which he/she has deposited the fee in the institute. After registration, Research Advisory Committees (RACs) for the individual PS shall be constituted by the concerned Head of the Department in consultation with the Supervisor (s). After the constitution of the RACs, the first meeting shall be held within two months to approve the broad area of Research.",
+          "document_id": 1586827
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many days in Maternity Leave?",
+              "id": 1066431,
+              "answers": [
+                {
+                  "answer_id": 955102,
+                  "document_id": 1586832,
+                  "question_id": 1066431,
+                  "text": "135 days",
+                  "answer_start": 34,
+                  "answer_end": 42,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many days on paternity leave?",
+              "id": 1066433,
+              "answers": [
+                {
+                  "answer_id": 955106,
+                  "document_id": 1586832,
+                  "question_id": 1066433,
+                  "text": "15 days",
+                  "answer_start": 84,
+                  "answer_end": 91,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The woman PS will be eligible for 135 days of Maternity Leave with Assistantship or 15 days of paternity leave as applicable only once during the Ph.D. program.",
+          "document_id": 1586832
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the font size of Major Headings of state-of-the-art document?",
+              "id": 1066473,
+              "answers": [
+                {
+                  "answer_id": 955199,
+                  "document_id": 1586837,
+                  "question_id": 1066473,
+                  "text": "12-point",
+                  "answer_start": 1144,
+                  "answer_end": 1152,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the font size of the state-of-the-art document?",
+              "id": 1066465,
+              "answers": [
+                {
+                  "answer_id": 955184,
+                  "document_id": 1586837,
+                  "question_id": 1066465,
+                  "text": "11-point",
+                  "answer_start": 919,
+                  "answer_end": 927,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the font style of the state-of-the-art document?",
+              "id": 1066466,
+              "answers": [
+                {
+                  "answer_id": 955186,
+                  "document_id": 1586837,
+                  "question_id": 1066466,
+                  "text": "Times New Roman",
+                  "answer_start": 903,
+                  "answer_end": 918,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the line spacing of the state-of-the-art document?",
+              "id": 1066489,
+              "answers": [
+                {
+                  "answer_id": 955242,
+                  "document_id": 1586837,
+                  "question_id": 1066489,
+                  "text": "1.5 line spacing",
+                  "answer_start": 953,
+                  "answer_end": 969,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Within 20 months of the date of registration, the candidate who passed the comprehensive examination must propose his or her research plan to the RAC. Based on the summary of the literature study, PS should identify the goal of his or her research in the state-of-the-art seminar. The Chairperson, RAC should conduct the state-of-the-art seminar. The state-of-the-art seminar shall preferably be prepared on the following guidelines: I. The proposal may have the following Sections: a) Introduction b) Literature Review c) Research gap and Objectives d) Proposed Methodology (optional) e) Bar Chart indicating time f) Conclusions g) List of most appropriate references II. The title page should contain the proposed title of the research, name, and roll number of the PS, name (s) of the supervisor (s), department, institute, month, and year of submission. III. It should be typed on an A4 size paper, Times New Roman 11-point font size, preferably at 1.5 line spacing with a 30 mm margin on the left and 25.4 mm margin on the right, top, and bottom. IV. The Major Headings as given in S. No. I. Above shall be in bold block capitals having a 12-point font size. The Subheadings (if any) shall be in bold title case.",
+          "document_id": 1586837
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When PS allow to submit his/her thesis?",
+              "id": 1066492,
+              "answers": [
+                {
+                  "answer_id": 955252,
+                  "document_id": 1586842,
+                  "question_id": 1066492,
+                  "text": "within 90 days from the date of synopsis presentation",
+                  "answer_start": 92,
+                  "answer_end": 145,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When PS allow to submit his/her final synopsis copy?",
+              "id": 1066493,
+              "answers": [
+                {
+                  "answer_id": 955253,
+                  "document_id": 1586842,
+                  "question_id": 1066493,
+                  "text": "after 10 days of synopsis presentation",
+                  "answer_start": 172,
+                  "answer_end": 210,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many copies of thesis need to submit?",
+              "id": 1066494,
+              "answers": [
+                {
+                  "answer_id": 955256,
+                  "document_id": 1586842,
+                  "question_id": 1066494,
+                  "text": "three copies",
+                  "answer_start": 479,
+                  "answer_end": 491,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "In which way thesis copy will be submit?",
+              "id": 1066495,
+              "answers": [
+                {
+                  "answer_id": 955479,
+                  "document_id": 1586842,
+                  "question_id": 1066495,
+                  "text": "through his/her supervisor (S) and the concerned HOD",
+                  "answer_start": 584,
+                  "answer_end": 636,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "On the recommendations of RAC, the Dean (Academic) may allow a PS to submit his/her thesis (within 90 days from the date of synopsis presentation) and final synopsis copy (after 10 days of synopsis presentation). Under no circumstances thesis submission beyond 90 days from the date of synopsis presentation is allowed. PS must reappear for the synopsis if he/she fails to submit the thesis within 90 days from the date of the synopsis presentation. The PS is required to submit three copies of the Ph.D. thesis (spiral bound) and one electronic copy to the Office of Dean (Academic) through his/her supervisor (S) and the concerned HOD provided he/she has already submitted his/her synopsis.",
+          "document_id": 1586842
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many numbers of leave is there?",
+              "id": 1066422,
+              "answers": [
+                {
+                  "answer_id": 955085,
+                  "document_id": 1586831,
+                  "question_id": 1066422,
+                  "text": "30 days in a year",
+                  "answer_start": 203,
+                  "answer_end": 220,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When shall PS allow to leave the station?",
+              "id": 1066428,
+              "answers": [
+                {
+                  "answer_id": 955098,
+                  "document_id": 1586831,
+                  "question_id": 1066428,
+                  "text": "after completion of their course work or during vacations",
+                  "answer_start": 543,
+                  "answer_end": 600,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The PS is required to apply to the concerned HOD through Supervisor for leave stating the reasons why they are not in a position to attend classes/perform thesis work. All PS are eligible for a leave of 30 days in a year (January to December) @ 15 days per semester. The intervening holidays will be treated as part of leave with the provision of suffixing and prefixing holidays. In no way, the leave rules would affect the attendance requirements for the PS. All PS shall be allowed to leave the station for visiting other places preferably after completion of their course work or during vacations when there is no teaching work scheduled, if recommended by Supervisor (s) and HOD, and approved by Dean Academic well in advance for various purposes like library consultation, meeting experts, presentation of research papers/participation in the conferences/short term courses/symposiums, etc., getting samples tested from other laboratories, using the lab facilities elsewhere if the same is not available at NIT Arunachal Pradesh, interaction with the External Supervisor, and any other similar purpose as recommended by his/her Supervisor (s) and HOD. For these purposes, he/she shall be permitted 60 days per year @ 30 days per semester. The leave as mentioned in Clause 8.2 shall be in addition.",
+          "document_id": 1586831
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many pages will be the synopsis of?",
+              "id": 1066461,
+              "answers": [
+                {
+                  "answer_id": 955173,
+                  "document_id": 1586836,
+                  "question_id": 1066461,
+                  "text": "maximum of 20 pages",
+                  "answer_start": 365,
+                  "answer_end": 384,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many numbers of final synopsis copies need to be submitted?",
+              "id": 1066462,
+              "answers": [
+                {
+                  "answer_id": 955176,
+                  "document_id": 1586836,
+                  "question_id": 1066462,
+                  "text": "2 copies",
+                  "answer_start": 550,
+                  "answer_end": 558,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Upon satisfactory completion of all criteria which shall form part & parcel of the Ph.D. Programme, PS can give an open house presentation (Synopsis) after the due recommendation of RAC. In this regard, a notification may be issued by Dean (Academic) to the concerned HoD for further necessary action. Before the presentation, he/she will submit the synopsis copy (maximum of 20 pages) 10 days before the presentation to the RAC through Supervisor. If the RAC is satisfied with the performance of PS, he/she is required to submit the final synopsis (2 copies) of his/her research work to the academic cell. The maximum duration allowed to PS for synopsis presentation is preferably 25 minutes. If RAC is not satisfied with the synopsis presentation, then he/she can give the presentation again after six months.",
+          "document_id": 1586836
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "In what language thesis should be written?",
+              "id": 1066491,
+              "answers": [
+                {
+                  "answer_id": 955251,
+                  "document_id": 1586841,
+                  "question_id": 1066491,
+                  "text": "English ",
+                  "answer_start": 32,
+                  "answer_end": 40,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "The thesis should be written in English in a format, which may include preferably the following sections: i. Abstract ii. Introduction and objectives iii. Literature review iv. Methodology (as applicable) v. Results and discussions vi. Conclusions and Future Scope vii. References",
+          "document_id": 1586841
+        }
+      ]
+    }
+  ]
+}
